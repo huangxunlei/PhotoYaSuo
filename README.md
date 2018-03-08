@@ -1,4 +1,4 @@
-# PhotoYaSuo
+# 图片压缩封装
 [![](https://jitpack.io/v/huangxunlei/PhotoYaSuo.svg)](https://jitpack.io/#huangxunlei/PhotoYaSuo)
 
 ### Step 1. Add the JitPack repository to your build file
@@ -14,7 +14,7 @@
 ###  Step 2. Add the dependency
 ```
 dependencies {
-		compile 'com.github.User:Repo:Tag'
+	        compile 'com.github.huangxunlei:PhotoYaSuo:1.0'
 	}
 ```
 
